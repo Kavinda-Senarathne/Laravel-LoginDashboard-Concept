@@ -24,7 +24,7 @@
         <form action="{{url('post-login')}}" method="POST" id="logForm">
             {{ csrf_field() }}
             <h2>Login Account</h2>
-            <p class="lead">Please login form too dashbord admin.</p>
+            <p class="lead">Please login form to dashbord admin.</p>
             
             <div class="form-group">
                 <div class="input-group">
